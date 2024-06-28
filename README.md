@@ -245,10 +245,4 @@ This folder contains all the final visualisations that were considered for the p
 This folder contains the demo code that generates the graphs and statistics for the poster. To perform them, run `demo.ipynb`. In order to switch between the local and server version of the database, change variable `local` in the first cell of "Loading" section. If you want to adjust the time spans then change `start_time` and `end_time` in the format of `yyyy-mm-dd`.
 
 ## Authors
-
-- **Kirill Chekmenev**
-- **Jokubas Jasas**
-- **Martynas Kulys**
-- **Joshua Pantekoek**
-- **Igor Banasik**
 - **Nikita Seleznov**
